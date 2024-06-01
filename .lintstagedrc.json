@@ -1,3 +1,0 @@
-{
-  "*.ts": ["yarn eslint . --fix", "yarn prettier --check . --write"]
-}
