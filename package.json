@@ -1,0 +1,13 @@
+{
+  "name": "commerce-api",
+  "version": "1.0",
+  "description": " REST API for E-commerce",
+  "main": "server.ts",
+  "repository": "https://github.com/developedbyrod/NODE_ECOMMERCE_API",
+  "author": "developedbyrod",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^20.13.0",
+    "typescript": "^5.4.5"
+  }
+}
