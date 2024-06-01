@@ -3,7 +3,7 @@
     "module": "commonjs",
     "esModuleInterop": true,
     "target": "ES2016",
-    "rootDir": "./src",
+    "rootDir": "./",
     "outDir": "./dist",
     "moduleResolution": "node",
     "forceConsistentCasingInFileNames": true,
