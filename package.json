@@ -6,8 +6,13 @@
   "repository": "https://github.com/developedbyrod/NODE_ECOMMERCE_API",
   "author": "developedbyrod",
   "license": "MIT",
+  "scripts": {
+    "dev": "nodemon --watch 'src/' --exec 'ts-node' src/shared/http/server.ts -e ts"
+  },
   "devDependencies": {
     "@types/node": "^20.13.0",
+    "nodemon": "^3.1.2",
+    "ts-node": "^10.9.2",
     "typescript": "^5.4.5"
   }
 }
